@@ -1,3 +1,4 @@
 myenv/*
 !myenv/amazon_sentiment_analysis.ipynb
 .git
+.Reviews.csv
